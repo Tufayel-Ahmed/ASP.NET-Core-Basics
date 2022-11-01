@@ -1,0 +1,36 @@
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\bin\Debug\netcoreapp3.1\appsettings.json
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\bin\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.exe
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\bin\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.deps.json
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\bin\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.runtimeconfig.json
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\bin\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.runtimeconfig.dev.json
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\bin\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.dll
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\bin\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.pdb
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\bin\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.Views.dll
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\bin\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.Views.pdb
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.csproj.AssemblyReference.cache
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.GeneratedMSBuildEditorConfig.editorconfig
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.AssemblyInfoInputs.cache
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.AssemblyInfo.cs
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.csproj.CoreCompileInputs.cache
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.MvcApplicationPartsAssemblyInfo.cache
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.RazorAssemblyInfo.cache
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.RazorAssemblyInfo.cs
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core appsettings.json file.StaticWebAssets.Manifest.cache
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.TagHelpers.input.cache
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.TagHelpers.output.cache
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.RazorCoreGenerate.cache
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.RazorTargetAssemblyInfo.cache
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.RazorTargetAssemblyInfo.cs
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.Views.pdb
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.dll
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.pdb
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.genruntimeconfig.cache
+G:\ASP.NET-Core-Basics\ASP.NET Core appsettings.json file\ASP.NET Core appsettings.json file\obj\Debug\netcoreapp3.1\ASP.NET Core appsettings.json file.csproj.CopyComplete
